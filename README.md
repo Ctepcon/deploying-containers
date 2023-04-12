@@ -1,3 +1,2 @@
-# Using Docker Code Examples
-## "Deploying Containers"
-# deploying-containers
+Test project for docker containers.
+Based on https://github.com/using-docker
